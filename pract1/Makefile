@@ -23,3 +23,8 @@ Simulator.o: Simulator.cc Simulator.h Tape.h Ant.h
 
 clean:
 	rm -f $(OBJS) $(TARGET)
+
+
+
+Crea una modificación del código realizando lo siguiente y mostrando únicamente la parte nueva o modificada del código:
+crear una función countActiveCells que devuelva al final de la simulación por pantalla.
